@@ -35,7 +35,7 @@ Java · Kotlin · Android SDK · Firebase · REST APIs
 
 ### Certifications
 
-**AWS Certified Solutions Architect – Practitioner** — [Verify](https://www.credly.com/badges/39ab856c-319c-48ef-9d99-b5d42b26fe04/public_url)
+**AWS Certified Cloud Practitioner** — [Verify](https://www.credly.com/badges/39ab856c-319c-48ef-9d99-b5d42b26fe04/public_url)
 ---
 
 Most of my active work is in private repos. The public ones below are libraries, experiments, and student projects.
